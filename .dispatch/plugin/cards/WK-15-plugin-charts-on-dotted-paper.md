@@ -1,6 +1,7 @@
 # WK-15 — Plugin: Charts on dotted paper
 
-Branch: split-wk-15 (in both repos) · Worktree: ~/Projects/.worktrees/paper-charts/split-wk-15 and ~/Projects/.worktrees/pito-work/split-wk-15
+Wave: 1 · Run: single · Depends on: none · Complexity: ***
+Branch: split-wk-15 · Base: main
 
 ## What
 The book (sections 1, 6): paper carries three rulings, and the dotted areas exist for charts, "as a plugin should be made for adding chart feature" (his words, 2026-09-15). Charts is the first-party plugin that proves a plugin with its own data: fenced data blocks in a Page body become a chart drawn on the dotted ruling in the Page's `panel` slot. The desk knows nothing about charts;
